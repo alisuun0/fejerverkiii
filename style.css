@@ -1,0 +1,74 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: white;
+    border: 5px solid rgb(255, 163, 179);
+    padding: 10px;
+    border-radius: 10px;
+    color: rgb(255, 163, 179);
+    margin-bottom: 15px;
+}
+
+header a {
+    background-color: rgb(239, 105, 128);
+    color: white;
+    border: 2px;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+nav a {
+    Background-color:rgb(239, 105, 128);
+    color: white;
+    border: 5px rgb(239, 105, 128);
+    border-radius: 10px;
+    padding: 5px;
+    margin: 40px
+}
+
+a {
+    Background-color:rgb(239, 105, 128);
+    color: white;
+    border: 5px rgb(239, 105, 128);
+    border-radius: 10px;
+    padding: 5px;
+}
+
+h1 {
+    background-color: white;
+    border: 1px solid rgb(239, 105, 128);
+    color: rgb(239, 105, 128);
+    border-radius: 20px;
+    padding: 5px;
+    text-align: center;
+}
+
+footer {
+    background-color: rgb(255, 163, 179);
+    border: 2px solid rgb(255, 163, 179);
+    border-radius: 10px;
+    padding: 5px
+}
+
+footer p {
+    background-color: white;
+    border: rgb(255, 163, 179);
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.produkc {
+    background-color: rgb(255, 173, 187);
+    border: 3px solid rgb(243, 125, 144);
+    border-radius: 5px;
+    padding: 5px;
+    padding-left: 20px;
+    color: white;
+}
+
+.zagol {
+    color: rgb(227, 79, 104);
+    font-size: 30px;
+}
